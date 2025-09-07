@@ -8,6 +8,5 @@ public class Helloworld {
         int ddd=abc+ccc;
         System.out.println(ddd);
         System.out.println(ddd);
-
     }
 }
